@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## Languages & Technologies
 
-![PHP](php.svg | width=48)
-![MySQL](mysql.svg)
-![JavaScript](javascript.svg)
-![Python](python.svg)
-![HTML](html.svg)
-![CSS](css.svg)
-![Visual Studio Code](vs-code.svg)
+![PHP](php.png)
+![MySQL](mysql.png)
+![JavaScript](javascript.png)
+![Python](python.png)
+![HTML](html.png)
+![CSS](css.png)
+![Visual Studio Code](vs-code.png)
