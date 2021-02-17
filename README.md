@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Languages & Technologies
 
-![PHP](php.svg)
+![PHP](php.svg | width=48)
 ![MySQL](mysql.svg)
 ![JavaScript](javascript.svg)
 ![Python](python.svg)
