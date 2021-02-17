@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 🤔 I'm looking for: friends to share knowledge and do great projects
 
 ## Languages & Technologies
-
+<!--
 - ![PHP](php.png)
 - ![MySQL](mysql.png)
 - ![JavaScript](javascript.png)
 - ![Python](python.png)
 - ![HTML](html.png)
 - ![CSS](css.png)
-
+-->
 <img align="left" width="64" height="64" src="php.png">
 <img align="left" width="64" height="64" src="mysql.png">
 <img align="left" width="64" height="64" src="javascript.png">
