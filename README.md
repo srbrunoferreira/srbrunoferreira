@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 ![Python](python.png)
 ![HTML](html.png)
 ![CSS](css.png)
-![Visual Studio Code](vs-code.png)
