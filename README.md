@@ -1,4 +1,4 @@
-# Hi there, my name is Bruno Ferreira 👋
+<h2 align="center">Hi there, my name is Bruno Ferreira 👋</h2>
 
 <!--
 **brunoferreiracoder/brunoferreiracoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
