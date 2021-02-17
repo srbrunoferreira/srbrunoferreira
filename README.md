@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - ![HTML](html.png)
 - ![CSS](css.png)
 -->
-<img align="left" width="64" height="64" src="php.png">
-<img align="left" width="64" height="64" src="mysql.png">
-<img align="left" width="64" height="64" src="javascript.png">
-<img align="left" width="64" height="64" src="python.png">
-<img align="left" width="64" height="64" src="html.png">
-<img align="left" width="64" height="64" src="css.png">
+<img align="left" width="40" src="php.png">
+<img align="left" width="40" src="mysql.png">
+<img align="left" width="40" src="javascript.png">
+<img align="left" width="40" src="python.png">
+<img align="left" width="40" src="html.png">
+<img align="left" width="40" src="css.png">
