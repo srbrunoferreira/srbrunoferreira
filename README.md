@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 How to reach me: srbrunoferreira@outlook.com
-## 🤔 I'm looking for: friends to share knowledge and do great projects
+#### 📫 How to reach me: srbrunoferreira@outlook.com
+#### 🤔 I'm looking for: friends to share knowledge and do great projects
 
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
