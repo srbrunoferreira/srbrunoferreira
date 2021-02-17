@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me: srbrunoferreira@outlook.com
+🤔 I'm looking for: friends to share knowledge and do great projects
 
-![alt PHP](https://www.php.net/)
+## Languages & Technologies
+
+![PHP](php.svg)
+![MySQL](mysql.svg)
+![JavaScript](javascript.svg)
+![Python](python.svg)
+![HTML](html.svg)
+![CSS](css.svg)
+![Visual Studio Code](vs-code.svg)
