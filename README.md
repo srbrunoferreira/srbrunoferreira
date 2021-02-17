@@ -14,21 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: srbrunoferreira@outlook.com
+📫 How to reach me: srbrunoferreira@outlook.com<br>
 🤔 I'm looking for: friends to share knowledge and do great projects
 
 ## Languages & Technologies
-<!--
-- ![PHP](php.png)
-- ![MySQL](mysql.png)
-- ![JavaScript](javascript.png)
-- ![Python](python.png)
-- ![HTML](html.png)
-- ![CSS](css.png)
--->
-<img align="left" width="40" src="php.png">
-<img align="left" width="40" src="mysql.png">
-<img align="left" width="40" src="javascript.png">
-<img align="left" width="40" src="python.png">
-<img align="left" width="40" src="html.png">
-<img align="left" width="40" src="css.png">
+<img align="left" width="45" src="php.png">
+<img align="left" width="45" src="mysql.png">
+<img align="left" width="45" src="javascript.png">
+<img align="left" width="45" src="python.png">
+<img align="left" width="45" src="html.png">
+<img align="left" width="45" src="css.png">
