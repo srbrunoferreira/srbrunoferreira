@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: [srbrunoferreira@outlook.com](mailto:srbrunoferreira@outlook.com)
+📫 How to reach me: srbrunoferreira@outlook.com
 
 ![alt PHP](https://www.php.net/)
