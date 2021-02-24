@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #### 💻 See my website: https://srbrunoferreira.000webhostapp.com/
 ####
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
+#### :computer: My skills: PHP, CSS, HTML, MySQL, Python, JavaScript
 
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
