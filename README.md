@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me: srbrunoferreira@outlook.com
 #### 💻 See my website: https://srbrunoferreira.000webhostapp.com/
-####
+#### ⚡ My skills: PHP, CSS, HTML, MySQL, Python, JavaScript
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
-#### :computer: My skills: PHP, CSS, HTML, MySQL, Python, JavaScript
 
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
