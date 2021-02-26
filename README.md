@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
 
 **Tecnologias que eu domino**
-- **Front-end** ![HTML5](https://img.shields.io/badge/-PHP-333336?style=flat&logo=php)
+- **Front-end** ![HTML5](https://img.shields.io/badge/-PHP-333336?style=for-the-badge&logo=php) ![CSS3](https://img.shields.io/badge/-CSS-333336?style=for-the-badge&logo=css) ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333336?style=for-the-badge&logo=js)
 <!--
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
