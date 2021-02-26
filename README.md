@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 #### ⚡ My skills: PHP, CSS, HTML, MySQL, Python, JavaScript
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
 
+
+
+
 **Tecnologias que eu domino**
-- **Front-end** ![HTML5](https://img.shields.io/badge/-HTML-333336?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-333336?style=for-the-badge&logo=css3) ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333336?style=for-the-badge&logo=javascript)
-- **Back-end** ![PHP](https://img.shields.io/badge/-PHP-333336?style=for-the-badge&logo=php)
-- **Banco de dados** ![MYSQL](https://img.shields.io/badge/-MySQL-333336?style=for-the-badge&logo=mysql)
+- **Front-end** ![HTML5](https://img.shields.io/badge/-HTML-333336?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-333336?style=flat&logo=css3) ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333336?style=flat&logo=javascript)
+- **Back-end** ![PHP](https://img.shields.io/badge/-PHP-333336?style=flat&logo=php)
+- **Banco de dados** ![MYSQL](https://img.shields.io/badge/-MySQL-333336?style=flat&logo=mysql)
 <!--
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
