@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 **Tecnologias que eu domino**
 - **Front-end** ![HTML5](https://img.shields.io/badge/-HTML-333336?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-333336?style=flat&logo=css3) ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333336?style=flat&logo=javascript)
 - **Back-end** ![PHP](https://img.shields.io/badge/-PHP-333336?style=flat&logo=php)
 - **Banco de dados** ![MYSQL](https://img.shields.io/badge/-MySQL-333336?style=flat&logo=mysql)
-<!--
+
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
 <img align="left" width="45" src="mysql.png">
