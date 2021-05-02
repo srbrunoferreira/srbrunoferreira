@@ -8,12 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbrunoferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbrunoferreira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages & Technologies
-<img align="left" width="45" src="php.png">
-<img align="left" width="45" src="mysql.png">
-<img align="left" width="45" src="javascript.png">
-<img align="left" width="45" src="python.png">
-<img align="left" width="45" src="html.png">
-<img align="left" width="45" src="css.png">
--->
