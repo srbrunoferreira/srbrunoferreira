@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, my name is Bruno Ferreira 👋</h1>
 
-<!--
-**brunoferreiracoder/brunoferreiracoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,14 +18,7 @@ Here are some ideas to get you started:
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbrunoferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbrunoferreira)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Tecnologias que eu domino**
-- **Front-end** ![HTML5](https://img.shields.io/badge/-HTML-333336?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-333336?style=flat&logo=css3) ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333336?style=flat&logo=javascript)
-- **Back-end** ![PHP](https://img.shields.io/badge/-PHP-333336?style=flat&logo=php)
-- **Banco de dados** ![MYSQL](https://img.shields.io/badge/-MySQL-333336?style=flat&logo=mysql)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbrunoferreira&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Technologies
 <img align="left" width="45" src="php.png">
