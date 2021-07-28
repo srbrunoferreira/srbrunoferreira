@@ -16,3 +16,5 @@
 #### 🤔 I'm looking for: friends to share knowledge and do great projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbrunoferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srbrunoferreira)](https://github.com/srbrunoferreira)
