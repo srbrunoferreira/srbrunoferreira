@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](![](https://komarev.com/ghpvc/?username=srbrunoferreira&style=flat-square))
 <img src="banner.png">
 
 <h3> :boy: &nbsp;Sobre mim </h3>
