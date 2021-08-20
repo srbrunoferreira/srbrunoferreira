@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e me desenvolvendo como Full Stack.
 - 🎓 &nbsp; Estudando **Téc. em Desenvolvimento de Sistemas** na <a href="https://www.linkedin.com/company/etepac/about/" target="_blank">ETEPAC</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor PHP** na <a href="https://www.linkedin.com/company/linknacional/" target="_blank">Link Nacional</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
