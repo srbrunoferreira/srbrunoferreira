@@ -8,6 +8,12 @@
 - 💼 &nbsp; Trabalhando como **Desenvolvedor PHP** na <a href="https://www.linkedin.com/company/linknacional/" target="_blank">Link Nacional</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Node e React**.
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-brunoferreiradc-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoferreiradc/)](https://www.linkedin.com/in/brunoferreiradc/)
+[![Outlook: Bruno Ferreira](https://img.shields.io/badge/-srbrunoferreira@outlook.com-006bed?style=flat-round&logo=Gmail&logoColor=white&link=mailto:srbrunoferreira@outlook.com)](mailto:srbrunoferreira@outlook.com)
+[![Twitter: Bruno Ferreira](https://img.shields.io/badge/-Twitter-006bed?style=flat-round&logo=Twitter&logoColor=white&link=https://twitter.com/srbrunferreira)](https://twitter.com/srbrunferreira)
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Linguagens**
@@ -31,9 +37,3 @@
 <h3> :chart_with_upwards_trend: &nbsp;Horas de programação </h3>
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=srbrunoferreira&layout=compact)
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-brunoferreiradc-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoferreiradc/)](https://www.linkedin.com/in/brunoferreiradc/)
-[![Outlook: Bruno Ferreira](https://img.shields.io/badge/-srbrunoferreira@outlook.com-006bed?style=flat-round&logo=Gmail&logoColor=white&link=mailto:srbrunoferreira@outlook.com)](mailto:srbrunoferreira@outlook.com)
-[![Twitter: Bruno Ferreira](https://img.shields.io/badge/-Twitter-006bed?style=flat-round&logo=Twitter&logoColor=white&link=https://twitter.com/srbrunferreira)](https://twitter.com/srbrunferreira)
