@@ -28,8 +28,6 @@
   ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-brunoferreiradc-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoferreiradc/)](https://www.linkedin.com/in/brunoferreiradc/)
