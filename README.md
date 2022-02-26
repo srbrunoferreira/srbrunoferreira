@@ -36,4 +36,4 @@
 
 <h3> :chart_with_upwards_trend: &nbsp;Horas de programação </h3>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=srbrunoferreira&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=srbrunoferreira&layout=compact&hide=e-mail,csv,batchfile,other,typescript,ini,text,xml,java,c)
