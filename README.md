@@ -16,23 +16,28 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 **Linguagens**
 <table>
   <tr>
-    <td>Front-end</td>
-    <td>Back-end</td>
+    <td style="padding-bottom: 10px;">Front-end</td>
+    <td style="padding-bottom: 10px;">Back-end</td>
+    <td style="padding-bottom: 10px;">Bancos de dados</td>
   </tr>
   <tr>
-  </tr>
-  <tr>
-    <td>
+    <td style="padding-top: 12px;">
       <div>
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
       </div>
     </td>
-    <td>
+    <td style="padding-top: 12px;">
       <div>
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
@@ -40,13 +45,7 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
       </div>
     </td>
-  </tr>
-
-  <tr>
-    <td>Bancos de dados</td>
-  </tr>
-  <tr>
-    <td>
+    <td style="padding-top: 12px;">
       <div>
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
