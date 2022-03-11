@@ -1,12 +1,12 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 ![](https://komarev.com/ghpvc/?username=srbrunoferreira&style=flat-square)
-<img src="banner.png">
 
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e me desenvolvendo como Full Stack.
 - 🎓 &nbsp; Estudando **Téc. em Desenvolvimento de Sistemas** na <a href="https://www.linkedin.com/company/etepac/about/" target="_blank">ETEPAC</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor PHP** na <a href="https://www.linkedin.com/company/linknacional/" target="_blank">Link Nacional</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Node e React**.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://www.linkedin.com/company/linknacional/" target="_blank">Link Nacional</a>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
@@ -17,8 +17,31 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Linguagens**
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<br>
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
+</div>
+<br>
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+<br>
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,13 +50,9 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
 **DevOps**
 
   ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<h3> :chart_with_upwards_trend: &nbsp;Horas de programação </h3>
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=srbrunoferreira&layout=compact&hide=e-mail,csv,batchfile,other,typescript,ini,text,xml,java,c)
