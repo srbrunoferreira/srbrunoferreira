@@ -3,34 +3,24 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924%20Thousand%20lines%20of%20code-blue)
 
-> 🏆 4 Contributions in the Year 2023
- > 
-> 📦 49.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
-PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+💬 Programming Languages: 
+YAML                     2 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.5% 
+Text                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   23.37% 
+Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
+PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
+
+💻 Operating System: 
+WSL                      2 hrs 13 mins       █████████████░░░░░░░░░░░░   52.5% 
+Windows                  2 hrs 1 min         ████████████░░░░░░░░░░░░░   47.5%
 
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/srbrunoferreira/srbrunoferreira/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/01/2023 13:26:52 UTC
+ Last Updated on 14/01/2023 13:46:40 UTC
 <!--END_SECTION:waka-->
