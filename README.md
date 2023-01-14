@@ -1,7 +1,9 @@
 🧑🏻 Hi there, I'm a full-stack web developer with over 1 year of experience.
 
 🧑🏻‍💻 PHP (Laravel) and JavaScript (Vue.js)
+
 📘 Enthusiast in the study of Docker and AWS.
+
 🎓 Systems Development Technician
 
 <!--START_SECTION:waka-->
