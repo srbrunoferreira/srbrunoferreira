@@ -1,4 +1,4 @@
-🧑🏻 Hi there, I'm a full-stack web developer with over 1 year of experience.
+🧑🏻 Hi there, I'm a full-stack web developer with over 1 year of professional experience.
 
 🎓 Systems Development Technician<br/>
 🧑🏻‍💻 I work mainly with PHP (Laravel) and JavaScript (Vue.js)<br/>
