@@ -1,6 +1,7 @@
 🧑🏻 Hi there, I'm a full-stack web developer with over 1.5 year of professional experience.
 
-🎓 Systems Development Technician<br/>
+🧑🏻‍🎓 Bachelor's Degree Student in Information Systems<br/>
+🎓 Certificate in Systems Development<br/>
 🧑🏻‍💻 I work mainly with PHP (Laravel) and JavaScript (Vue.js)<br/>
 📘 Enthusiast in the study of Docker and AWS.<br/>
 
