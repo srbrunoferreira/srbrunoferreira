@@ -7,10 +7,10 @@
 
 🧑🏻‍💻 Here, you'll find my skills on:<br/>
 
-• 🧑🏻‍💻 Linguagens: PHP, JavaScript, Python, Node;<br/>
+• 🧑🏻‍💻 Languages: PHP, JavaScript, Python, Node;<br/>
 • 📓 DevOps: Git, CI/CD, GitHub Actions, Docker;<br/>
 • 💻 Back-end: Laravel, WordPress;<br/>
-• 📊 Banco de dados: MySQL, Firebase, MongoDB;<br/>
+• 📊 Databases: MySQL, Firebase, MongoDB;<br/>
 • 🖼️ Front-end: HTML, CSS, Vue.js, Quasar.js, React;<br/>
 • 📱 Mobile: Flutter, React Native;
 
