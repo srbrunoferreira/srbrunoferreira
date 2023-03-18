@@ -5,12 +5,13 @@
 🧑🏻‍💻 I work mainly with PHP (Laravel) and JavaScript (Vue.js)<br/>
 📘 Enthusiast in the study of Docker and AWS.<br/>
 
-🧑🏻‍💻 Here, you'll find my skills on:
-• 🧑🏻‍💻 Linguagens: PHP, JavaScript, Python, Node;
-• 📓 DevOps: Git, CI/CD, GitHub Actions, Docker;
-• 💻 Back-end: Laravel, WordPress;
-• 📊 Banco de dados: MySQL, Firebase, MongoDB;
-• 🖼️ Front-end: HTML, CSS, Vue.js, Quasar.js, React;
+🧑🏻‍💻 Here, you'll find my skills on:<br/>
+
+• 🧑🏻‍💻 Linguagens: PHP, JavaScript, Python, Node;<br/>
+• 📓 DevOps: Git, CI/CD, GitHub Actions, Docker;<br/>
+• 💻 Back-end: Laravel, WordPress;<br/>
+• 📊 Banco de dados: MySQL, Firebase, MongoDB;<br/>
+• 🖼️ Front-end: HTML, CSS, Vue.js, Quasar.js, React;<br/>
 • 📱 Mobile: Flutter, React Native;
 
 <!--START_SECTION:waka-->
