@@ -13,17 +13,3 @@
 • 📊 Databases: MySQL, Firebase, MongoDB;<br/>
 • 🖼️ Front-end: HTML, CSS, Vue.js, Quasar.js, React;<br/>
 • 📱 Mobile: Flutter, React Native;
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-WSL                      0 secs              █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
