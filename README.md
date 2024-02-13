@@ -1,4 +1,5 @@
-🧑🏻 Hi there, I'm a full-stack web developer with over 1.5 year of professional experience.
+🧑🏻 Hello there, I'm a full-stack developer.
+🧑🏻‍🎓 Bachelor's Degree Student in Information Systems | 🎓 Systems Development Technician
 
 🧑🏻‍🎓 Undergraduate Student in Information Systems<br/>
 🎓 Certificate in Systems Development<br/>
