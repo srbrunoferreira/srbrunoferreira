@@ -1,18 +1,9 @@
-🧑🏻 Hello there, I'm a full-stack developer.
+Hello there! I am a Software Engineer with 4 years of solid professional experience in creating solutions through technology.
 
-🧑🏻‍🎓 Bachelor's Degree Student in Information Systems | 🎓 Systems Development Technician
+AI, Frontend, Backend, Cloud.
 
-🧑🏻‍🎓 Undergraduate Student in Information Systems<br/>
-🎓 Certificate in Systems Development<br/>
-🧑🏻‍💻 I work mainly with Python and React<br/>
-📘 Enthusiast in the study of AI<br/>
-
-🧑🏻‍💻 Here, you'll find my skills on:<br/>
-
-• 🧑🏻‍💻 Languages: PHP, JavaScript, Python, Node<br/>
-• 🧠 AI: LangChain<br>
-• 📓 DevOps: Git, CI/CD, GitHub Actions, Docker<br/>
-• 💻 Back-end: Laravel, WordPress<br/>
-• 📊 Databases: MySQL, Firebase, MongoDB<br/>
-• 🖼️ Front-end: HTML, CSS, Vue.js, Quasar.js, React<br/>
-• 📱 Mobile: Flutter, React Native
+• Payment solutions as private and open-source plugins for WordPress and WHMCS via the main payment platforms of Brazil: Banco do Brasil, Cielo, PagSeguro and PagHiper.
+• Chatwoot and WhatsApp API integration for internal management of user notifications and messages.
+• Maintenance of WordPress installations by optimizing legacy database and optimizing page speed.
+• From scratch full-stack development and maintenance of web applications with Laravel, Vue, MySQL and AWS EC2.
+• Design, development, implementation and maintenance of Python backend and React frontend powered by Vercel andNext.js.
