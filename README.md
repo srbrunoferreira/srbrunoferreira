@@ -1,9 +1,18 @@
-Hello there! I am a Software Engineer with 4 years of solid professional experience in creating solutions through technology.
+Hello! I'm a Software Engineer with 4 years of experience building innovative solutions. My work spans **AI**, **Frontend**, **Backend**, and **Cloud** technologies.
 
-AI, Frontend, Backend, Cloud.
+### Technologies & Tools:
 
-- Payment solutions as private and open-source plugins for WordPress and WHMCS via the main payment platforms of Brazil: Banco do Brasil, Cielo, PagSeguro and PagHiper.
-- Chatwoot and WhatsApp API integration for internal management of user notifications and messages.
-- Maintenance of WordPress installations by optimizing legacy database and optimizing page speed.
-- From scratch full-stack development and maintenance of web applications with Laravel, Vue, MySQL and AWS EC2.
-- Design, development, implementation and maintenance of Python backend and React frontend powered by Vercel andNext.js.
+- **Payment Solutions**: Developed private and open-source **WordPress** and **WHMCS** plugins integrating Brazil's top payment platforms: **Banco do Brasil**, **Cielo**, **PagSeguro**, **PagHiper**.
+- **Messaging Integration**: Integrated **Chatwoot** and **WhatsApp API** for internal user notifications and message management.
+- **WordPress Optimization**: Optimized **WordPress** installations, improving legacy databases and boosting page speed.
+- **Full-Stack Development**: Built and maintained web apps using **Laravel**, **Vue.js**, **MySQL**, **AWS EC2**.
+- **Python & React**: Designed, developed, and maintained backends with **Python** and frontends with **React**, hosted on **Vercel** and powered by **Next.js**.
+
+### Core Expertise:
+
+- **API Development**
+- **Cloud Infrastructure (AWS, EC2)**
+- **CI/CD Automation**
+- **Web App Performance Optimization**
+
+Feel free to explore my projects and reach out for collaboration!
