@@ -1,4 +1,4 @@
-Engenheiro de software experiente, especializado em soluções orientadas por IA e desenvolvimento full-stack. Hábil em projetar fluxos de trabalho de agentes, implementar sistemas escaláveis ​​e otimizar infraestrutura baseada em nuvem. Proficiente em tecnologias como LangChain, RAG, Python e frameworks JavaScript modernos, com forte foco em fornecer soluções confiáveis ​​e sustentáveis.
+Experienced software engineer specializing in AI-driven solutions and full-stack development. Skilled in designing agent workflows, implementing scalable systems, and optimizing cloud-based infrastructure. Proficient in technologies like LangChain, RAG, Python, and modern JavaScript frameworks, with a strong focus on delivering reliable and maintainable solutions.
 
 | **Category**              | **Technologies**                                                                                                                                 |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
