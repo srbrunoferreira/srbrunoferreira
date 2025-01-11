@@ -1,18 +1,10 @@
-Hello! I'm a Software Engineer with 4 years of experience building innovative solutions. My work spans **AI**, **Frontend**, **Backend**, and **Cloud** technologies.
+Engenheiro de software experiente, especializado em soluções orientadas por IA e desenvolvimento full-stack. Hábil em projetar fluxos de trabalho de agentes, implementar sistemas escaláveis ​​e otimizar infraestrutura baseada em nuvem. Proficiente em tecnologias como LangChain, RAG, Python e frameworks JavaScript modernos, com forte foco em fornecer soluções confiáveis ​​e sustentáveis.
 
-### Technologies & Tools:
+| **Category**              | **Technologies**                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Artificial Intelligence** | LangChain, LangGraph, LangSmith<br>RAG, FAISS<br>OpenAI, Anthropic, Llama, Mistral<br>Multi-agent, ReAct, Plan, CoT<br>Conversational Chat UIs |
+| **Full Stack Development** | Python, Typescript, PHP, Node, Java<br>Laravel, Lumen<br>FastApi, Express, Next.js<br>React, Vue 3, Astro<br>Radix, Material UI, Quasar.js       |
+| **Databases**             | SQL, MySQL, PostgreSQL, SQLite<br>MongoDB, Redis, Firebase                                                                                     |
+| **DevOps and Cloud Infrastructure** | Docker, AWS EC2, GitHub Actions<br>Vercel, Fastcomet, cPanel, Nginx                                                                 |
 
-- **Payment Solutions**: Developed private and open-source **WordPress** and **WHMCS** plugins integrating Brazil's top payment platforms: **Banco do Brasil**, **Cielo**, **PagSeguro**, **PagHiper**.
-- **Messaging Integration**: Integrated **Chatwoot** and **WhatsApp API** for internal user notifications and message management.
-- **WordPress Optimization**: Optimized **WordPress** installations, improving legacy databases and boosting page speed.
-- **Full-Stack Development**: Built and maintained web apps using **Laravel**, **Vue.js**, **MySQL**, **AWS EC2**.
-- **Python & React**: Designed, developed, and maintained backends with **Python** and frontends with **React**, hosted on **Vercel** and powered by **Next.js**.
 
-### Core Expertise:
-
-- **API Development**
-- **Cloud Infrastructure (AWS, EC2)**
-- **CI/CD Automation**
-- **Web App Performance Optimization**
-
-Feel free to explore my projects and reach out for collaboration!
