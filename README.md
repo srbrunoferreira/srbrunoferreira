@@ -1,4 +1,4 @@
-Experienced software engineer specializing in AI-driven solutions and full-stack development. Skilled in designing agent workflows, implementing scalable systems, and optimizing cloud-based infrastructure. Proficient in technologies like LangChain, RAG, Python, and modern JavaScript frameworks, with a strong focus on delivering reliable and maintainable solutions.
+I am a software engineer with 5 years of experience in full-stack development, specializing in AI-driven applications, cloud infrastructure, and DevOps. I thrive in collaborative environments, contributing across the entire software lifecycle, along with extensive experience working in remote teams and adapting to flexible schedules.
 
 | **Category**              | **Technologies**                                                                                                                                 |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
