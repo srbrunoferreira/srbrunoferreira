@@ -6,8 +6,6 @@ I thrive in collaborative, remote-first environments and have worked with teams 
 
 ---
 
-### 📬 Let's Connect!  
-
 🌐 [linkedin.com/in/brunoferreiradc](https://www.linkedin.com/in/brunoferreiradc)  
 📧 srbrunoferreira@outlook.com  
 📱 +5581989163234  
@@ -16,18 +14,19 @@ I thrive in collaborative, remote-first environments and have worked with teams 
 
 ### 💻 Tech Stack  
 
-- **AI & LLMs**: LangChain / LangGraph / OpenAI & Claude APIs / RAG / Mistral / Llama / Mistral-Codestal  
-- **Backend**: Python / Node.js / PHP / FastAPI / Laravel / Express / Django / Laravel Octane / Swoole / Lumen  
-- **DevOps & Cloud**: Docker / AWS EC2 / GitHub Actions / Vercel / Fastcomet / cPanel / Nginx / Certbot / Docker Compose  
-- **Frontend**: React / TypeScript / Next.js / Vue.js / Tailwind CSS / Astro / Material UI / Radix UI / Quasar.js  
+- ⭐️ **AI & LLMs**: LangChain / LangGraph / OpenAI & Claude APIs / RAG / Mistral / Llama / Mistral-Codestal  
+- ⭐️ **Backend**: Python / Node.js / PHP / FastAPI / Laravel / Express / Django / Laravel Octane / Swoole / Lumen    
+- ⭐️ **Frontend**: React / TypeScript / Next.js / Vue.js / Tailwind CSS / Astro / Material UI / Radix UI / Quasar.js  
 - **Mobile**: Flutter / React Native  
-- **Databases**: MySQL / PostgreSQL / MongoDB / Redis / Firebase / SQLite  
-- **API Services**: Evolution API / WhatsApp & Meta Business/Cloud API  
+- **Databases**: MySQL / PostgreSQL / MongoDB / Redis / Firebase / SQLite
+- ⭐️ **DevOps & Cloud**: Docker / AWS EC2 / GitHub Actions / Vercel / Fastcomet / cPanel / Nginx / Certbot / Docker Compose
+- ⭐️ **API Services**: Evolution API / WhatsApp & Meta Business/Cloud API  
 - **Payment Providers**: SIBS / Bank of Brazil / Cielo / PagSeguro / PagHiper  
 
 ---
 
 ### 🧠 About Me  
+
 - 🌍 Based in Recife, Brazil 🌎  
 - 📚 Currently learning **AWS, Java, C#, and .NET**  
 - 💬 I speak **Portuguese (Native)**, **English (Professional/Advanced)**, and **Spanish (Basic)**  
@@ -35,4 +34,4 @@ I thrive in collaborative, remote-first environments and have worked with teams 
 
 ---
 
-⭐️ *Feel free to check out my repositories and reach out for collaboration!*  
+*Feel free to check out my repositories and reach out for collaboration!*  
