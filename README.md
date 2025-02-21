@@ -1,10 +1,38 @@
-I am a software engineer with 5 years of experience in full-stack development, specializing in AI-driven applications, cloud infrastructure, and DevOps. I thrive in collaborative environments, contributing across the entire software lifecycle, along with extensive experience working in remote teams and adapting to flexible schedules.
+### 👋 Hey there! I'm Bruno Ferreira  
 
-| **Category**              | **Technologies**                                                                                                                                 |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Artificial Intelligence** | LangChain, LangGraph, LangSmith<br>RAG, FAISS<br>OpenAI, Anthropic, Llama, Mistral<br>Multi-agent, ReAct, Plan, CoT<br>Conversational Chat UIs |
-| **Full Stack Development** | Python, Typescript, PHP, Node, Java<br>Laravel, Lumen<br>FastApi, Express, Next.js<br>React, Vue 3, Astro<br>Radix, Material UI, Quasar.js       |
-| **Databases**             | SQL, MySQL, PostgreSQL, SQLite<br>MongoDB, Redis, Firebase                                                                                     |
-| **DevOps and Cloud Infrastructure** | Docker, AWS EC2, GitHub Actions<br>Vercel, Fastcomet, cPanel, Nginx                                                                 |
+🚀 **Full Stack Software Engineer** specializing in AI-driven applications, cloud infrastructure, and DevOps. With over 5 years of experience, I work across the full software lifecycle—from design and development to testing, deployment, and maintenance.  
 
+I thrive in collaborative, remote-first environments and have worked with teams across **Brazil, Canada, and Portugal**.
 
+---
+
+### 📬 Let's Connect!  
+
+🌐 [linkedin.com/in/brunoferreiradc](https://www.linkedin.com/in/brunoferreiradc)  
+📧 srbrunoferreira@outlook.com  
+📱 +5581989163234  
+
+---
+
+### 💻 Tech Stack  
+
+- **AI & LLMs**: LangChain / LangGraph / OpenAI & Claude APIs / RAG / Mistral / Llama / Mistral-Codestal  
+- **Backend**: Python / Node.js / PHP / FastAPI / Laravel / Express / Django / Laravel Octane / Swoole / Lumen  
+- **DevOps & Cloud**: Docker / AWS EC2 / GitHub Actions / Vercel / Fastcomet / cPanel / Nginx / Certbot / Docker Compose  
+- **Frontend**: React / TypeScript / Next.js / Vue.js / Tailwind CSS / Astro / Material UI / Radix UI / Quasar.js  
+- **Mobile**: Flutter / React Native  
+- **Databases**: MySQL / PostgreSQL / MongoDB / Redis / Firebase / SQLite  
+- **API Services**: Evolution API / WhatsApp & Meta Business/Cloud API  
+- **Payment Providers**: SIBS / Bank of Brazil / Cielo / PagSeguro / PagHiper  
+
+---
+
+### 🧠 About Me  
+- 🌍 Based in Recife, Brazil 🌎  
+- 📚 Currently learning **AWS, Java, C#, and .NET**  
+- 💬 I speak **Portuguese (Native)**, **English (Professional/Advanced)**, and **Spanish (Basic)**  
+- 🎂 In my free time, I enjoy **baking** and taking care of my **plants** 🪴  
+
+---
+
+⭐️ *Feel free to check out my repositories and reach out for collaboration!*  
