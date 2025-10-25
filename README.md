@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Bruno Ferreira
+### 👋 Hello there! I'm Bruno Ferreira
 
 ### Look at my website: [srbrunoferreira.github.io](https://srbrunoferreira.github.io/)
 
